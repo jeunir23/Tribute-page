@@ -544,6 +544,10 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.flex {
+  display: flex;
+}
+
 .h-\[64px\] {
   height: 64px;
 }
@@ -552,16 +556,29 @@ video {
   width: 1920px;
 }
 
+.w-\[336px\] {
+  width: 336px;
+}
+
+.items-center {
+  align-items: center;
+}
+
 .bg-\[\#1D1E26\] {
   --tw-bg-opacity: 1;
   background-color: rgb(29 30 38 / var(--tw-bg-opacity));
 }
 
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
+.bg-\[\#8C111B\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(140 17 27 / var(--tw-bg-opacity));
 }
 
-.font-bold {
-  font-weight: 700;
+.text-center {
+  text-align: center;
+}
+
+.text-\[\#F2F2F2\] {
+  --tw-text-opacity: 1;
+  color: rgb(242 242 242 / var(--tw-text-opacity));
 }
