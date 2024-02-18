@@ -1,0 +1,22 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("background-image.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+.lora {
+  color: #F2F2F2;
+  text-align: center;
+  text-shadow: -2px 2px 0px #8C111B;
+  font-family: Lora;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 5px; 
+}
+
+
