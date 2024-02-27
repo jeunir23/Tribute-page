@@ -576,6 +576,10 @@ video {
   height: 64px;
 }
 
+.h-\[304px\] {
+  height: 304px;
+}
+
 .w-\[336px\] {
   width: 336px;
 }
@@ -586,6 +590,10 @@ video {
 
 .w-\[max\] {
   width: max;
+}
+
+.w-\[456px\] {
+  width: 456px;
 }
 
 .justify-center {
