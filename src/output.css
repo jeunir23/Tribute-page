@@ -572,6 +572,34 @@ video {
   margin-left: 732px;
 }
 
+.mt-\[\] {
+  margin-top: ;
+}
+
+.mb-\[656px\] {
+  margin-bottom: 656px;
+}
+
+.mt-\[-250px\] {
+  margin-top: -250px;
+}
+
+.mt-\[-660px\] {
+  margin-top: -660px;
+}
+
+.mt-\[-290px\] {
+  margin-top: -290px;
+}
+
+.mt-\[-320px\] {
+  margin-top: -320px;
+}
+
+.mt-\[-310px\] {
+  margin-top: -310px;
+}
+
 .flex {
   display: flex;
 }
