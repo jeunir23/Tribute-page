@@ -576,6 +576,10 @@ video {
   margin-top: -500px;
 }
 
+.mt-\[18px\] {
+  margin-top: 18px;
+}
+
 .flex {
   display: flex;
 }
@@ -644,6 +648,18 @@ video {
 
 .pt-\[21px\] {
   padding-top: 21px;
+}
+
+.pt-\[18px\] {
+  padding-top: 18px;
+}
+
+.pt-\[10px\] {
+  padding-top: 10px;
+}
+
+.pt-\[5px\] {
+  padding-top: 5px;
 }
 
 .text-center {
