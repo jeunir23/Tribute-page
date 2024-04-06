@@ -10,10 +10,11 @@
 .background-two {
     background-color: #1D1E26;
     width: 100%;
-    height: 1016px;
+    height: 100;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    padding-top: 150px;
 }  
 
 .lora {
